@@ -12,13 +12,13 @@ namespace PrototypePattern
         {
             Console.WriteLine("This is Concrete Prototype #{0} being created. The info is: {1}", id, info);
         }
-        // returns a shallow copy
+        // This method returns a shallow copy and is the defining characteristic of Prototype Pattern
         public override Prototype Clone()
         {
             return (Prototype)this.MemberwiseClone();
         }
 
-        // returns a shallow copy
+        // This method returns a deep copy and is the defining characteristic of Prototype Pattern
         public Prototype DeepClone()
         {
             Prototype clone = (Prototype)this.MemberwiseClone();
