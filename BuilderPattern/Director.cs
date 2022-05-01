@@ -10,6 +10,7 @@ namespace BuilderPattern
     {
         public void Construct(Builder builder)
         {
+            // Director class is used so as to not break the single responsibility principle
             builder.BuildPartA();
             builder.BuildPartB();
         }

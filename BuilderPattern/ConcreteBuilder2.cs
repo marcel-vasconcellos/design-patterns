@@ -8,6 +8,7 @@ namespace BuilderPattern
 {
     internal class ConcreteBuilder2 : Builder
     {
+        // This is the code we want to hide
         private Product _product = new Product();
         public override void BuildPartA()
         {

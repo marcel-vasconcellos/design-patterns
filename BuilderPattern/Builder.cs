@@ -8,6 +8,7 @@ namespace BuilderPattern
 {
     abstract class Builder
     {
+        // Concrete builders will have different implementations for BuildPartA and B methods
         public abstract void BuildPartA();
         public abstract void BuildPartB();
         public abstract Product GetResult();
