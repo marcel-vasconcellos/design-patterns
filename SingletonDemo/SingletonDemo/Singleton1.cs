@@ -25,6 +25,8 @@ namespace SingletonDemo
         }
         private static Singleton1 instance = null;
         private static int TotalInstances;
+
+        //This is the defining characteristic of a Singleton Pattern
         public static Singleton1 GetInstance
         {
             get

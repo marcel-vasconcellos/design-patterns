@@ -6,6 +6,7 @@ namespace SingletonDemo
     {
         static void Main(string[] args)
         {
+            // The purpose of a singleton is to guarantee there will only ne one instance of a given class
             Console.WriteLine("Singleton Pattern Demonstration:");
             Singleton1 firstInstance = Singleton1.GetInstance;
             Singleton1 secondInstance = Singleton1.GetInstance;
