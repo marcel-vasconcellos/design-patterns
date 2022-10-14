@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\ProxyPattern\bin\Debug\net5.0\ProxyPattern.exe
+C:\Users\marce\source\repos\ProxyPattern\bin\Debug\net5.0\ProxyPattern.deps.json
+C:\Users\marce\source\repos\ProxyPattern\bin\Debug\net5.0\ProxyPattern.runtimeconfig.json
+C:\Users\marce\source\repos\ProxyPattern\bin\Debug\net5.0\ProxyPattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\ProxyPattern\bin\Debug\net5.0\ProxyPattern.dll
+C:\Users\marce\source\repos\ProxyPattern\bin\Debug\net5.0\ProxyPattern.pdb
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.dll
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\refint\ProxyPattern.dll
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.pdb
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ProxyPattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\ProxyPattern\obj\Debug\net5.0\ref\ProxyPattern.dll
