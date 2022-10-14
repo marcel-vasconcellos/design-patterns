@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\TemplatePattern\bin\Debug\net5.0\TemplatePattern.exe
+C:\Users\marce\source\repos\TemplatePattern\bin\Debug\net5.0\TemplatePattern.deps.json
+C:\Users\marce\source\repos\TemplatePattern\bin\Debug\net5.0\TemplatePattern.runtimeconfig.json
+C:\Users\marce\source\repos\TemplatePattern\bin\Debug\net5.0\TemplatePattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\TemplatePattern\bin\Debug\net5.0\TemplatePattern.dll
+C:\Users\marce\source\repos\TemplatePattern\bin\Debug\net5.0\TemplatePattern.pdb
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.dll
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\refint\TemplatePattern.dll
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.pdb
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\TemplatePattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\TemplatePattern\obj\Debug\net5.0\ref\TemplatePattern.dll
