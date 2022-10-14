@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\MementoPattern\bin\Debug\net5.0\MementoPattern.exe
+C:\Users\marce\source\repos\MementoPattern\bin\Debug\net5.0\MementoPattern.deps.json
+C:\Users\marce\source\repos\MementoPattern\bin\Debug\net5.0\MementoPattern.runtimeconfig.json
+C:\Users\marce\source\repos\MementoPattern\bin\Debug\net5.0\MementoPattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\MementoPattern\bin\Debug\net5.0\MementoPattern.dll
+C:\Users\marce\source\repos\MementoPattern\bin\Debug\net5.0\MementoPattern.pdb
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.dll
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\refint\MementoPattern.dll
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.pdb
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\MementoPattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\MementoPattern\obj\Debug\net5.0\ref\MementoPattern.dll
