@@ -18,7 +18,7 @@ namespace PrototypePattern
             return (Prototype)this.MemberwiseClone();
         }
 
-        // This method returns a deep copy and is the defining characteristic of Prototype Pattern
+        // This method returns a deep copy and is also the defining characteristic of Prototype Pattern
         public Prototype DeepClone()
         {
             Prototype clone = (Prototype)this.MemberwiseClone();
