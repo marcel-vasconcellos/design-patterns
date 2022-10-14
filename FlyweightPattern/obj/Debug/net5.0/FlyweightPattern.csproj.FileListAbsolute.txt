@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\FlyweightPattern\bin\Debug\net5.0\FlyweightPattern.exe
+C:\Users\marce\source\repos\FlyweightPattern\bin\Debug\net5.0\FlyweightPattern.deps.json
+C:\Users\marce\source\repos\FlyweightPattern\bin\Debug\net5.0\FlyweightPattern.runtimeconfig.json
+C:\Users\marce\source\repos\FlyweightPattern\bin\Debug\net5.0\FlyweightPattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\FlyweightPattern\bin\Debug\net5.0\FlyweightPattern.dll
+C:\Users\marce\source\repos\FlyweightPattern\bin\Debug\net5.0\FlyweightPattern.pdb
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.dll
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\refint\FlyweightPattern.dll
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.pdb
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\FlyweightPattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\FlyweightPattern\obj\Debug\net5.0\ref\FlyweightPattern.dll
