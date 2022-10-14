@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\InterpreterPattern\bin\Debug\net5.0\InterpreterPattern.exe
+C:\Users\marce\source\repos\InterpreterPattern\bin\Debug\net5.0\InterpreterPattern.deps.json
+C:\Users\marce\source\repos\InterpreterPattern\bin\Debug\net5.0\InterpreterPattern.runtimeconfig.json
+C:\Users\marce\source\repos\InterpreterPattern\bin\Debug\net5.0\InterpreterPattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\InterpreterPattern\bin\Debug\net5.0\InterpreterPattern.dll
+C:\Users\marce\source\repos\InterpreterPattern\bin\Debug\net5.0\InterpreterPattern.pdb
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.dll
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\refint\InterpreterPattern.dll
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.pdb
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\InterpreterPattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\InterpreterPattern\obj\Debug\net5.0\ref\InterpreterPattern.dll
