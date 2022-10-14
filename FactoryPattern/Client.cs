@@ -6,8 +6,9 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
-            //Factory pattern hides the construction of the object itself using the factory
-            Console.WriteLine("Factory Pattern demonstration!");
+            /* Factory pattern hides the construction of the object using the factory.
+             * It differs from the Simple Factory by having specific factories for each type of object. */
+            Console.WriteLine("***Factory Pattern Demo***");
             AnimalFactory dogFactory = new DogFactory();
             IAnimal dog = dogFactory.CreateAnimal();
             dog.AboutMe();
