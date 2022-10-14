@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\StatePattern\bin\Debug\net5.0\StatePattern.exe
+C:\Users\marce\source\repos\StatePattern\bin\Debug\net5.0\StatePattern.deps.json
+C:\Users\marce\source\repos\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.json
+C:\Users\marce\source\repos\StatePattern\bin\Debug\net5.0\StatePattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\StatePattern\bin\Debug\net5.0\StatePattern.dll
+C:\Users\marce\source\repos\StatePattern\bin\Debug\net5.0\StatePattern.pdb
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.dll
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\refint\StatePattern.dll
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.pdb
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\StatePattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\StatePattern\obj\Debug\net5.0\ref\StatePattern.dll
