@@ -6,6 +6,9 @@ namespace BuilderPattern
     {
         static void Main(string[] args)
         {
+            /* Builder pattern's purpose is to hide the steps to construct a new object
+             * through the implementation of  builder pattern*/
+            Console.WriteLine("***Builder Pattern Demo***");
             Director director = new Director();
             Builder b1 = new ConcreteBuilder1();
             Builder b2 = new ConcreteBuilder2();

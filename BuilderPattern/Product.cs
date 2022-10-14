@@ -8,6 +8,7 @@ namespace BuilderPattern
 {
     internal class Product
     {
+        // Simple demonstration of the info related to the object constructed
         private List<string> _parts = new List<string>();
         public void Add(string part)
         {
