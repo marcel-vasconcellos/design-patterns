@@ -1,0 +1,16 @@
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\bin\Debug\net5.0\ChainOfResponsibilityPattern.exe
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\bin\Debug\net5.0\ChainOfResponsibilityPattern.deps.json
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\bin\Debug\net5.0\ChainOfResponsibilityPattern.runtimeconfig.json
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\bin\Debug\net5.0\ChainOfResponsibilityPattern.runtimeconfig.dev.json
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\bin\Debug\net5.0\ChainOfResponsibilityPattern.dll
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\bin\Debug\net5.0\ChainOfResponsibilityPattern.pdb
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.AssemblyInfoInputs.cache
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.AssemblyInfo.cs
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.dll
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\refint\ChainOfResponsibilityPattern.dll
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.pdb
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ChainOfResponsibilityPattern.genruntimeconfig.cache
+C:\Users\marce\source\repos\ChainOfResponsibilityPattern\obj\Debug\net5.0\ref\ChainOfResponsibilityPattern.dll
