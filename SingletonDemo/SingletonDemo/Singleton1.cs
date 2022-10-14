@@ -8,7 +8,7 @@ namespace SingletonDemo
 {
     public sealed class Singleton1
     {
-        // private constructor is used to prevent the creation of instances with the new keyword outside of this class
+        // Private constructor is used to prevent the creation of instances with the new keyword outside of this class
         private Singleton1() 
         {
             Console.WriteLine("Private constructor is called.");
@@ -26,7 +26,7 @@ namespace SingletonDemo
         private static Singleton1 instance = null;
         private static int TotalInstances;
 
-        //This is the defining characteristic of a Singleton Pattern
+        // This code below is the defining characteristic of a Singleton Pattern
         public static Singleton1 GetInstance
         {
             get
